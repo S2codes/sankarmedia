@@ -144,12 +144,29 @@
         font-size: 6rem;
         font-weight: 500;
     }
+
+    .top-mid-secnd-band{
+        font-size: 7.5rem;
+        color: var(--primary-color);
+        letter-spacing: 12px;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+
     .top-last-band{
         color: #fff;
         font-size: 7.5rem;
         letter-spacing: 27px;
         font-weight: 600;
     }
+    .last-band{
+        color: #fff;
+        font-size: 5.5rem;
+        letter-spacing: 23px;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+  
 
     .enquiry_form{
         width: 70%;
@@ -458,4 +475,3 @@
         align-items: center;
     }
    
-
